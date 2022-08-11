@@ -1,5 +1,5 @@
 Hotel Booking PHP Laravel React (hotel-booking-php-laravel-react) is a version of example of PHP application for Hotel Reservation (Hotel Booking) created on:
-- back end (server side) with PHP and Laravel 9 (PHP framework); Laravel technologies used are: Laravel Breeze with Inertia, Vite that help to integrate back end with front end faster (in this case with React), Authentification (out of the box with Laravel Breeze), etc..
+- back end (server side) with PHP and Laravel 9 (PHP framework); Laravel technologies used are: Laravel Breeze with Inertia, Vite that help to integrate back end with front end faster (in this case with React), Authentication (out of the box with Laravel Breeze), etc..
 - front end (client side, browser side) with JavaScript and ReactJS (React.js) that is an JavaScript library; also used React third party open source components: react-select (better DropDown menu need in some forms), react-datepicker (Date picker need in some forms), moment.js (for date formating and date processing with React).
 - database: MySQL. 
 
