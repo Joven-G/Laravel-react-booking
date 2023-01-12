@@ -30,7 +30,7 @@ class ClientController extends Controller
     public function store(Request $request)
     {
         $this->validate($request, [
-            'name' => 'required|min:2|max:150',
+            'name' => 'required|min:5|max:150',
             'identification' => 'required|integer|gt:0',
             'address' => 'required|max:255',
             'telephone' => 'required|numeric',
@@ -52,7 +52,7 @@ class ClientController extends Controller
     public function update($id, Request $request)
     {
         $this->validate($request, [
-            'name' => 'required|min:2|max:150',
+            'name' => 'required|min:5|max:150',
             'identification' => 'required|integer|gt:0',
             'address' => 'required|max:255',
             'telephone' => 'required|numeric',
