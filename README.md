@@ -7,7 +7,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/albeisoft/hotel-booking-php-laravel-react.git
+git clone https://github.com/sweatydev/Laravel-Vue-booking.git
 
 Then cd into the folder with this command:
 
